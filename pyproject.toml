@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-yolov8"
+description = "Nodes: Yolov8Detection, Yolov8Segmentation. Deadly simple yolov8 comfyui plugin"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/zcfrank1st/Comfyui-Yolov8"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Comfyui-Yolov8"
+Icon = ""
